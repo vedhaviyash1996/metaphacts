@@ -1,0 +1,7 @@
+# dependencies
+/node_modules
+.env
+/public/uploads
+/awscli-bundle
+/awscli-bundle.zip
+/terminal
