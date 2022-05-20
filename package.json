@@ -1,0 +1,16 @@
+{
+  "name": "metaphacts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@innotrade/enapso-graphdb-client": "^1.8.6",
+    "express": "^4.18.1",
+    "http": "^0.0.1-security"
+  }
+}
